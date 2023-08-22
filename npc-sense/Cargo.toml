@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "npc_sense",
+    "add_one"
+]
