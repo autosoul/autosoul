@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 add_one = { path = "../add_one" }
 rand = "0.8.5"
+webrtc = "0.8.0"
+serde = "1.0.185"
