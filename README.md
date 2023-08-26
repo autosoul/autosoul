@@ -1,4 +1,4 @@
-# Autosoul (work still in progress)
+# Autosoul (work in progress)
 
 Autosoul is designed to be an artificially intelligent and sentient entity.
 
