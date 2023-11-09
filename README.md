@@ -1,3 +1,5 @@
+<img width="" src="./docs/assets/isaura.png" alt="image_name png" />
+
 # Autosoul (work in progress)
 
 Autosoul is designed to be an artificially intelligent and sentient entity.
